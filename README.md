@@ -9,3 +9,6 @@ To use:
 3. Create an `.env` file in the root directory with the following contents (you can specify any available port number):
    `PORT=8080`
 4. Run `npm run dev` - the console should log that the application is listening on your specified port.
+
+API documentation is here:
+https://github.com/auth0-blog/wab-docs
